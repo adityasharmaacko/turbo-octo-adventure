@@ -10,7 +10,7 @@ Additionally, the system tracks **CPU** and **memory usage**, providing valuable
 
 * * * * *
 
-**Key Feature**
+**Key Features**
 ----------------
 
 -   **Smart Task Assignment**: Automatically assigns tasks based on agent skills, locations, and availability, minimizing travel distance.
