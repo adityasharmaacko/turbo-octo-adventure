@@ -1,0 +1,7 @@
+environment: local
+
+spring:
+  application:
+    name: routing-module
+server:
+  port: 8003
